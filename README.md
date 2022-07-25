@@ -6,5 +6,7 @@
 
 [lab-2](https://github.com/khelifanasir/CS-477/tree/main/lab-2)
 
+[lab-3](https://github.com/khelifanasir/CS-477/tree/main/lab-3)
+
 
 

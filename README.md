@@ -10,5 +10,7 @@
 
 [lab-4](https://github.com/khelifanasir/CS-477/tree/main/lab4)
 
+[lab-5](https://github.com/khelifanasir/CS-477/tree/main/lab5)
+
 
 

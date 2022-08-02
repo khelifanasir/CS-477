@@ -14,5 +14,6 @@
 
 [lab-6](https://github.com/khelifanasir/CS-477/tree/main/lab6)
 
+[lab-7](https://github.com/khelifanasir/CS-477/tree/main/lab7)
 
 
